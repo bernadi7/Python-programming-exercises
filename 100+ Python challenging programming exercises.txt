@@ -1,3 +1,14 @@
+0.
+Write a program that reads two integers entered by the user from the keyboard and corresponds to the names x and y. Then the code calculates the following and displays it on the screen using the .format () method, committing 10 locations for each given data.
+
+The quotient (real) of division x by y The remainder (integer) of division x by y The logarithm of x based on y The square root of y The exponential quantity (ex) where (e) is the basis of natural logarithms
+
+
+
+
+
+
+
 100+ Python challenging programming exercises
 
 1.	Level description
